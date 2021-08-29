@@ -1,0 +1,53 @@
+
+
+.upload__post {
+
+    background-color: #fff;
+    max-width: 400px;
+    border: 0.2px solid lightgray;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+
+.upload__post .upload__caption {
+
+    width: 395px;
+    height: 30px;
+    outline: none;
+    border: 1px solid lightgray;
+    font-size: 15px;
+
+}
+
+
+.upload__post .upload__btn {
+
+    float: right;
+    height: 30px;
+    border: 1px solid lightgray;
+    background-color: rgb(68, 68, 192);
+    color: white;
+    border-radius: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+
+.upload__file {
+
+    margin-top: 5px;
+    
+}
+
+.upload__progressBar {
+
+    width: 400px;
+    height: 10px;
+    margin-top: 5px;    
+    
+}
